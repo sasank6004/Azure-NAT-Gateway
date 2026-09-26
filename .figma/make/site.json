@@ -1,0 +1,11 @@
+{
+  "title": "Azure NAT Gateway | Outbound Connectivity",
+  "description": "Monitor Azure NAT Gateway health, outbound traffic, subnet connections, SNAT capacity, and costs from one operational dashboard.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
